@@ -1,4 +1,2 @@
 CV
 ==
-
-show off
